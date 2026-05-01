@@ -1,8 +1,11 @@
 # enteliWEB API Library Specification and Test Plan
 
 **Working package name:** `delta-enteliweb-client`  
+
 **Primary implementation target:** C, Go, Node, Rust, Python, C# 
+
 **Version:** 0.0.1
+
 **Target:** EnteliWEB 4.3.x
 
 \---
